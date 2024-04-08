@@ -1,4 +1,5 @@
-// Declarações e Atribuições de Variáveis: Declare variáveis de vários tipos de dados (`int`, `double`, `char`, `boolean`) e atribua valores a elas. Imprima seus valores no console para verificar.
+// Declarações e Atribuições de Variáveis: Declare variáveis de vários tipos de dados (`int`, `double`, `char`, `boolean`) 
+// e atribua valores a elas. Imprima seus valores no console para verificar.
 
 public class Ex1_1 {
     public static void main(String[] args) throws Exception {
